@@ -1,0 +1,26 @@
+📘 Problem Statement
+
+Telecom companies face high customer attrition (churn), leading to revenue loss and increased acquisition costs. Predicting churn is challenging due to:
+Complex customer behavior: Influenced by contract terms, service quality, and pricing.
+
+Imbalanced data: Few churned customers compared to retained ones.
+
+Multiple influencing factors: Tenure, payment methods, and add-on services.
+
+Goal: Build a classification model to identify at-risk customers before they churn, enabling proactive retention strategies.
+
+🎯 Business Objective Reduce Churn Rate: Minimize customer attrition by targeting high-risk segments with personalized offers (e.g., discounts, upgraded plans).
+
+Increase Revenue Retention: Save costs associated with acquiring new customers (5–10x more expensive than retention).
+
+Improve Customer Experience: Use insights (e.g., low tenure + high monthly charges = high risk) to refine service offerings.
+
+Success Metrics:
+
+Reduction in churn rate by X% post-intervention.
+
+Increase in customer lifetime value (CLTV) for retained customers.
+
+- Dataset used 
+
+https://www.kaggle.com/datasets/waseemalastal/telco-customer-churn-ibm-dataset

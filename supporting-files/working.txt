@@ -1,0 +1,12 @@
+## What I Did:
+- Built a churn prediction model using XGBoosting to identify customers likely to cancel services.
+
+- Optimized the model by tuning hyperparameters and evaluating performance (F1, ROC AUC).
+
+- Explained predictions using SHAP to show which features (like tenure or contract type) drive churn.
+
+## Skills Demonstrated:
+✔ Machine Learning: Trained and compared classification models (LightGBM, XGBoost).
+✔ Feature Engineering: Created meaningful features (e.g., High Risk flag).
+✔ Model Interpretation: Used SHAP for explainable AI.
+✔ Business Impact: Linked results to actionable insights (e.g., targeting high-risk customers).
